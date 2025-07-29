@@ -6,6 +6,7 @@ An Online Fitness Center web application built with the **MERN Stack** (MongoDB,
 # 🖼️ Project Screenshots
 
 🏠Home Page 
+
 ![Home](./Screenshots/Screenshot1.png)
 
 ![workout](./Screenshots/Screenshot2.png)
@@ -13,27 +14,35 @@ An Online Fitness Center web application built with the **MERN Stack** (MongoDB,
 ![Tips](./Screenshots/Screenshot5.png)
 
 📝 SignUp Page
+
 ![SignUp](./Screenshots/Screenshot3.png)
 
 🔐 Login Page
+
 ![Login](./Screenshots/Screenshot4.png)
 
 ℹ️  About Page
+
 ![About](./Screenshots/Screenshot6.png)
 
 🎟️ After Login Page
+
 ![LoginUser](./Screenshots/Screenshot7.png)
 
 🧘 Subscription Plans
+
 ![ChoosePlan](./Screenshots/Screenshot8.png)
 
 💰 Payment Page 
+
 ![Payment](./Screenshots/Screenshot9.png)
 
 🙍‍♂️ Admin Login Page
+
 ![Admin](./Screenshots/Screenshot10.png)
 
 🖥️ Admin Dashboard
+
 ![AdminDashboard](./Screenshots/Screenshot11.png)
 
 
