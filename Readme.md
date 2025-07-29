@@ -6,35 +6,35 @@ An Online Fitness Center web application built with the **MERN Stack** (MongoDB,
 # 🖼️ Project Screenshots
 
 🏠Home Page 
-![Home](./ScreenshotsScreenshot1)
+![Home](./Screenshots/Screenshot1)
 
-![workout](./ScreenshotsScreenshot2)
+![workout](./Screenshots/Screenshot2)
 
-![Tips](./ScreenshotsScreenshot5)
+![Tips](./Screenshots/Screenshot5)
 
 📝 SignUp Page
-![SignUp](./ScreenshotsScreenshot3)
+![SignUp](./Screenshots/Screenshot3)
 
 🔐 Login Page
-![Login](./ScreenshotsScreenshot4)
+![Login](./Screenshots/Screenshot4)
 
 ℹ️  About Page
-![About](./ScreenshotsScreenshot6)
+![About](./Screenshots/Screenshot6)
 
 🎟️ After Login Page
-![LoginUser](./ScreenshotsScreenshot7)
+![LoginUser](./Screenshots/Screenshot7)
 
 🧘 Subscription Plans
-![ChoosePlan](./ScreenshotsScreenshot8)
+![ChoosePlan](./Screenshots/Screenshot8)
 
 💰 Payment Page 
-![Payment](./ScreenshotsScreenshot9)
+![Payment](./Screenshots/Screenshot9)
 
 🙍‍♂️ Admin Login Page
-![Admin](./ScreenshotsScreenshot10)
+![Admin](./Screenshots/Screenshot10)
 
 🖥️ Admin Dashboard
-![AdminDashboard](./ScreenshotsScreenshot11)
+![AdminDashboard](./Screenshots/Screenshot11)
 
 
 ## 🚀 Features
