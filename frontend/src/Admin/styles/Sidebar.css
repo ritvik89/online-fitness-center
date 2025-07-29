@@ -1,0 +1,53 @@
+.sidebar-div {
+    height: 20rem;
+    width: 15rem;
+    background-color: black;
+    color: white;
+    border: 5px solid brown;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    position: absolute;
+    box-shadow: 2px 4px 8px black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.dashboard {
+ padding-left: 3rem;
+
+}
+
+.dashboard i {
+    font-size: large;
+    color: white;
+
+}
+
+.dashboard a {
+    color: white;
+    text-decoration: none;
+}
+
+.content {
+    line-height: 2;
+    padding: 1rem;
+    cursor: pointer;
+}
+
+
+.content a {
+    text-decoration: none;
+}
+
+.members-item {
+    align-items: center;
+    color: white;
+    line-height: 5;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.members-item i{
+    margin-left: 6rem;
+}

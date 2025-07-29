@@ -1,0 +1,56 @@
+.adminLogin {
+  position: relative;
+  margin: 1rem auto;
+  margin-top: 10rem;
+  width: 30%;
+  text-align: center;
+  padding: 1rem 2rem 1.2rem 2rem;
+  box-shadow: 2px 4px 10px black;
+  z-index: 1;
+  background-color: white;
+  overflow: hidden;
+}
+
+.adminLogin::before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  background: linear-gradient(45deg, red, blue, green,  magenta, yellow, red,pink);
+  z-index: -1;
+  animation: rotateBorder 4s linear infinite;
+  background-size: 400% 400%;
+}
+
+@keyframes rotateBorder {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.adminLogin-form {
+  position: relative;
+  z-index: 2;
+  line-height: 1.5;
+  background-color: white;
+}
+
+.adminLogin-form button {
+  padding: .2rem .5rem;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  border: 1px solid white;
+}
+
+.ad-fr {
+  margin-top: 14.2%;
+}

@@ -1,0 +1,106 @@
+.gymImage {
+  width: 100%;
+  height: 80vh;
+  display: block;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+ margin: 0 auto;
+}
+
+.imageWrapper {
+  position: relative;
+}
+
+
+.thoughts {
+  position: absolute;
+  top: 55%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.view-container {
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+gap: 20%;
+background-color:rgb(240, 253, 173);
+min-height: 12vh;
+flex-wrap: wrap;
+margin-top: -4px;
+}
+
+.card-content {
+  text-align: center;
+  padding-top: 1rem;
+}
+
+.card-content h1 {
+  font-size: 2rem;
+  color: #005599;
+}
+
+.card-content p {
+  font-size: 1.1rem;
+  color: #333333;
+}
+
+.card {
+  height: 15.62rem;
+  width: 18.75rem;
+  margin-left: 3.9rem;
+  margin-top: 2rem;
+  box-shadow: 2px 4px 10px black;
+  display: inline-block;
+  border-radius: 3%;
+  transition: 1s;
+  margin-bottom: 1rem;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 3%;
+}
+
+.card h3 {
+  color: #005599;
+  text-align: center;
+}
+
+.card a {
+  text-decoration: none;
+}
+
+.card div {
+  padding-top: 1rem;
+
+}
+
+.card:hover {
+  box-shadow: 4px 8px 18px violet;
+}
+
+.desc {
+  margin: 0 auto;
+  width: 50%;
+  align-items: center;
+  line-height: 1.5;
+
+}
+
+
+/* Responsive font size
+@media (max-width: 600px) {
+  .thoughts {
+    font-size: 1.2rem;
+  }
+} */

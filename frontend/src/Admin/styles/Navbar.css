@@ -1,0 +1,35 @@
+
+.admin-navbar{
+    background-color: black;
+    margin: 0;
+    color: whitesmoke;
+    display: flex;
+     flex-wrap: wrap;
+    align-items: center;
+    padding:1.25rem;
+    justify-content: space-between;
+   
+     
+}
+
+.admin-nav-div a{
+    color: white;
+    text-decoration: none;
+
+}
+.admin-nav-right{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.admin-nav-right button{
+    color: white;
+    margin-left: 1rem;
+    background-color: red;
+    padding: .4rem;
+    cursor: pointer;
+    border: 1px solid white;
+    border-radius: 1rem;
+   
+}

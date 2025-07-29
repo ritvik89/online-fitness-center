@@ -1,0 +1,29 @@
+.footer{
+    background-color: skyblue;
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+  
+    border: 0.05rem solid black;
+   
+}
+
+.footer-info{
+    display: inline-block;
+    margin-left: 1rem;
+    padding: 1.5rem;
+    line-height: 1.5;
+    
+}
+.footer-info a{
+    text-decoration: none;
+    color: darkslategray;
+    
+}
+
+.footer-info a:hover{
+   color: black;
+}
+.footer-info i:hover{
+    color:tomato;
+}
