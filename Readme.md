@@ -68,13 +68,13 @@ An Online Fitness Center web application built with the **MERN Stack** (MongoDB,
 
 ## Start Backend Server
 
-cd backend
-npm install
-npm start
+- cd backend
+- npm install
+- npm start
 
 ## Start Frontend Server
 
-cd frontend
-npm install
-npm start
+- cd frontend
+- npm install
+- npm start
 
