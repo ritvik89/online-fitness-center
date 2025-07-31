@@ -1,6 +1,6 @@
 # 🏋️‍♂️ Online Fitness Center
 
-An Online Fitness Center web application built with the **MERN Stack** (MongoDB, Express.js, React, Node.js) that helps users register, explore workout plans, and track fitness progress. This project is designed to simulate the features of a real fitness platform,
+An Online Fitness Center web application built with the **MERN Stack** (MongoDB, Express.js, React, Node.js) that helps users register, explore workout plans, and track fitness progress. This project is designed to simulate the features of a real fitness platform.
 ---
 
 # 🖼️ Project Screenshots
